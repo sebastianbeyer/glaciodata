@@ -12,3 +12,13 @@
 ## Antarctica
 
 - [Bedmap2](https://secure.antarctica.ac.uk/data/bedmap2/)
+
+
+## ice cores
+
+ ftp ftp.ncdc.noaa.gov 
+ pub/data/paleo/icecore
+ 
+ 
+ dO18:
+ https://lorraine-lisiecki.com/LR04stack.txt
